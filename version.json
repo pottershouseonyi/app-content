@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "last_updated": "2026-09-09",
+  "release_notes": "Initial content",
+  "content_files": {
+    "devotionals": {
+      "url": "https://raw.githubusercontent.com/pottershouseonyi/app-content/main/devotionals.json",
+      "version": 1
+    }
+  }
+}
