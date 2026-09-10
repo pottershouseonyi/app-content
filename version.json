@@ -1,11 +1,31 @@
 {
   "version": 1,
-  "last_updated": "2026-09-09",
-  "release_notes": "Initial content",
+  "last_updated": "2026-09-10",
+  "release_notes": "Added theme and events to content system",
   "content_files": {
     "devotionals": {
       "url": "https://raw.githubusercontent.com/pottershouseonyi/app-content/main/devotionals.json",
       "version": 2
+    },
+    "donate": {
+      "url": "https://raw.githubusercontent.com/pottershouseonyi/app-content/main/donate.json",
+      "version": 7
+    },
+    "events": {
+      "url": "https://raw.githubusercontent.com/pottershouseonyi/app-content/main/events.json",
+      "version": 1
+    },
+    "theme": {
+      "url": "https://raw.githubusercontent.com/pottershouseonyi/app-content/main/theme.json",
+      "version": 1
+    },
+    "about": {
+      "url": "https://raw.githubusercontent.com/pottershouseonyi/app-content/main/about.json",
+      "version": 1
+    },
+    "notifications": {
+      "url": "https://raw.githubusercontent.com/pottershouseonyi/app-content/main/notifications.json",
+      "version": 1
     }
   }
 }
