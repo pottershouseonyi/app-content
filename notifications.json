@@ -1,0 +1,91 @@
+{
+  "enabled": true,
+  "title": "Daily Encouragement",
+  "daily_messages": [
+    {
+      "id": 1,
+      "type": "encouragement",
+      "title": "God Is With You",
+      "message": "Fear not, for I am with you. Be not dismayed, for I am your God. I will strengthen you, yes, I will help you.",
+      "scripture": "Isaiah 41:10"
+    },
+    {
+      "id": 2,
+      "type": "encouragement",
+      "title": "His Mercies Are New",
+      "message": "It is of the LORD's mercies that we are not consumed, because His compassions fail not. They are new every morning.",
+      "scripture": "Lamentations 3:22-23"
+    },
+    {
+      "id": 3,
+      "type": "encouragement",
+      "title": "Trust His Plan",
+      "message": "For I know the thoughts that I think toward you, thoughts of peace, and not of evil, to give you an expected end.",
+      "scripture": "Jeremiah 29:11"
+    },
+    {
+      "id": 4,
+      "type": "encouragement",
+      "title": "Cast Your Cares",
+      "message": "Casting all your care upon Him, for He careth for you.",
+      "scripture": "1 Peter 5:7"
+    },
+    {
+      "id": 5,
+      "type": "encouragement",
+      "title": "Strength for Today",
+      "message": "They that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles.",
+      "scripture": "Isaiah 40:31"
+    },
+    {
+      "id": 6,
+      "type": "news",
+      "title": "Pastors' Appreciation Sunday",
+      "message": "Don't forget! October 25th is our Pastors' Appreciation Sunday. Let's honor our shepherds.",
+      "scripture": "1 Thessalonians 5:12-13"
+    },
+    {
+      "id": 7,
+      "type": "info",
+      "title": "Missions Month Coming",
+      "message": "November is Missions Month. Plan to be part of the Great Commission. Pray, give, and go!",
+      "scripture": "Matthew 28:19-20"
+    },
+    {
+      "id": 8,
+      "type": "encouragement",
+      "title": "You Are Loved",
+      "message": "For God so loved the world that He gave His only begotten Son, that whosoever believeth in Him should not perish.",
+      "scripture": "John 3:16"
+    },
+    {
+      "id": 9,
+      "type": "encouragement",
+      "title": "Perfect Peace",
+      "message": "Thou wilt keep him in perfect peace, whose mind is stayed on Thee: because he trusteth in Thee.",
+      "scripture": "Isaiah 26:3"
+    },
+    {
+      "id": 10,
+      "type": "encouragement",
+      "title": "More Than Conquerors",
+      "message": "Nay, in all these things we are more than conquerors through Him that loved us.",
+      "scripture": "Romans 8:37"
+    },
+    {
+      "id": 11,
+      "type": "news",
+      "title": "Annual Thanksgiving",
+      "message": "Save the date! December 13th is our Annual Thanksgiving service. Come with your testimony!",
+      "scripture": "Psalm 100:4"
+    },
+    {
+      "id": 12,
+      "type": "encouragement",
+      "title": "He Is Faithful",
+      "message": "Let us hold fast the profession of our faith without wavering; for He is faithful that promised.",
+      "scripture": "Hebrews 10:23"
+    }
+  ],
+  "last_updated": "2026-09-10"
+}
