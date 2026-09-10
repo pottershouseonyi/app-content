@@ -1,0 +1,62 @@
+{
+  "church_name": "National Evangelical Mission Inc.",
+  "short_name": "NEM",
+  "tagline": "The People That Love",
+  "mission_statement": "To turn each member into an extension of the Great Commission.",
+  "mission_scripture": "Matthew 28:18-20",
+  "vision_statement": "A mission-centered church where every member publishes the gospel of Christ to all nations.",
+  "vision_scripture": "Revelation 5:9",
+  "core_values": [
+    {
+      "title": "RIGHTEOUSNESS",
+      "scripture": "James 1:22",
+      "description": "Right standing with God; living the Bible-approved lifestyle"
+    },
+    {
+      "title": "EXCELLENCE",
+      "scripture": "Daniel 5:10-12",
+      "description": "Spirit of excellence; refusing mediocrity; doing our best"
+    },
+    {
+      "title": "ACCOUNTABILITY",
+      "scripture": "Romans 14:12",
+      "description": "Answerable to God; responsible stewardship"
+    },
+    {
+      "title": "LOVE (AGAPE)",
+      "scripture": "1 John 3:14,18",
+      "description": "Service flowing from love; actions over feelings"
+    }
+  ],
+  "colors": {
+    "red": {
+      "title": "RED",
+      "meaning": "Redemption Blood",
+      "scripture": "Colossians 1:12-14"
+    },
+    "white": {
+      "title": "WHITE",
+      "meaning": "Purity / Holiness",
+      "scripture": "Matthew 5:8"
+    },
+    "green": {
+      "title": "GREEN",
+      "meaning": "Productivity",
+      "scripture": "John 15:7-8"
+    }
+  },
+  "contact": {
+    "website": "https://nemng.org",
+    "email": null,
+    "phone": null,
+    "address": null
+  },
+  "social": {
+    "facebook": null,
+    "youtube": null,
+    "instagram": null,
+    "twitter": null
+  },
+  "privacy_policy_url": "https://nemng.org/app-privacy",
+  "last_updated": "2026-09-10"
+}
