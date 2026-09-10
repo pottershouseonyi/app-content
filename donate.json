@@ -1,12 +1,51 @@
 {
   "enabled": true,
-  "title": "Support the Mission",
-  "scripture": "2 Corinthians 9:7",
-  "scripture_text": "Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver.",
-  "bank_name": "First Bank of Nigeria",
-  "account_name": "National Evangelical Mission",
-  "account_number": "1234567890",
-  "sort_code": "011234567",
-  "message": "Thank you for supporting God's work",
-  "last_updated": "2026-09-09"
+  "accounts": [
+    {
+      "id": 1,
+      "enabled": true,
+      "heading": null,
+      "bank_name": null,
+      "account_name": null,
+      "account_number": null,
+      "sort_code": null,
+      "ussd_code": null,
+      "qr_code_url": null,
+      "scripture": null,
+      "scripture_text": null,
+      "message": null,
+      "description": null
+    },
+    {
+      "id": 2,
+      "enabled": true,
+      "heading": null,
+      "bank_name": null,
+      "account_name": null,
+      "account_number": null,
+      "sort_code": null,
+      "ussd_code": null,
+      "qr_code_url": null,
+      "scripture": null,
+      "scripture_text": null,
+      "message": null,
+      "description": null
+    },
+    {
+      "id": 3,
+      "enabled": true,
+      "heading": null,
+      "bank_name": null,
+      "account_name": null,
+      "account_number": null,
+      "sort_code": null,
+      "ussd_code": null,
+      "qr_code_url": null,
+      "scripture": null,
+      "scripture_text": null,
+      "message": null,
+      "description": null
+    }
+  ],
+  "last_updated": "2026-09-10"
 }
