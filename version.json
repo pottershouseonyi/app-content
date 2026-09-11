@@ -5,7 +5,7 @@
   "content_files": {
     "devotionals": {
       "url": "https://raw.githubusercontent.com/pottershouseonyi/app-content/main/devotionals.json",
-      "version": 2
+      "version": 3
     },
     "donate": {
       "url": "https://raw.githubusercontent.com/pottershouseonyi/app-content/main/donate.json",
