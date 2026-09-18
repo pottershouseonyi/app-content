@@ -9,7 +9,7 @@
     },
     "donate": {
       "url": "https://raw.githubusercontent.com/pottershouseonyi/app-content/main/donate.json",
-      "version": 1
+      "version": 2
     },
     "events": {
       "url": "https://raw.githubusercontent.com/pottershouseonyi/app-content/main/events.json",
