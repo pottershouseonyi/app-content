@@ -4,9 +4,9 @@
     {
       "id": 1,
       "enabled": true,
-      "heading": International Headquarters Building Project,
-      "bank_name": Zenith Bank plc,
-      "account_name": National Evangelical Mission Project Account,
+      "heading": "International Headquarters Building Project",
+      "bank_name": "Zenith Bank plc",
+      "account_name": "National Evangelical Mission Project Account",
       "account_number": 1014287193,
       "sort_code": null,
       "ussd_code": null,
@@ -47,5 +47,5 @@
       "description": null
     }
   ],
-  "last_updated": "2026-09-10"
+  "last_updated": "2026-09-18"
 }
