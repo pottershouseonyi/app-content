@@ -2,6 +2,118 @@
   "year": 2027,
   "events": [
     {
+      "title": "Dedication Week",
+      "startDate": "2026-01-10",
+      "endDate": "2026-01-31",
+      "category": "special",
+      "description": "Dedication Week.",
+      "location": null
+    },
+    {
+      "title": "Strategic Leadership Retreat",
+      "startDate": "2026-02-16",
+      "endDate": "2026-02-18",
+      "category": "conference",
+      "description": "Strategic Leadership Retreat.",
+      "location": "Zonal/Regional Coordinators"
+    },
+    {
+      "title": "General Council Meeting",
+      "startDate": "2026-02-19",
+      "endDate": null,
+      "category": "conference",
+      "description": "General Council Meeting.",
+      "location": null
+    },
+    {
+      "title": "Keep The Vision Alive (KVA)",
+      "startDate": "2026-03-11",
+      "endDate": "2026-03-14",
+      "category": "conference",
+      "description": "Keep The Vision Alive.",
+      "location": "Regional"
+    },
+    {
+      "title": "Easter Revivals",
+      "startDate": "2026-03-26",
+      "endDate": "2026-03-28",
+      "category": "revival",
+      "description": "Easter Revivals.",
+      "location": "Local Churches"
+    },
+    {
+      "title": "Church Leaders/Workers Retreat",
+      "startDate": "2026-04-22",
+      "endDate": "2026-04-24",
+      "category": "conference",
+      "description": "Church Leaders/Workers Retreat.",
+      "location": "Zonal/Region"
+    },
+    {
+      "title": "NEM Month of Prayers",
+      "startDate": "2026-06-01",
+      "endDate": "2026-06-30",
+      "category": "prayer",
+      "description": "NEM Month of Prayers.",
+      "location": "All Local Churches"
+    },
+    {
+      "title": "Great Commission Month",
+      "startDate": "2026-07-01",
+      "endDate": "2026-07-31",
+      "category": "missions",
+      "description": "Great Commission Month.",
+      "location": "All Local Churches"
+    },
+    {
+      "title": "Pastors and Wives Conference",
+      "startDate": "2026-08-03",
+      "endDate": "2026-08-06",
+      "category": "conference",
+      "description": "Pastors and Wives Conference.",
+      "location": null
+    },
+    {
+      "title": "National Women Conference",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-27",
+      "category": "conference",
+      "description": "National Women Conference.",
+      "location": null
+    },
+    {
+      "title": "NEM Youths Revival (Sonship)",
+      "startDate": "2026-08-31",
+      "endDate": "2026-09-03",
+      "category": "youth",
+      "description": "NEM Youths Revival (Sonship).",
+      "location": "Zonal/Region"
+    },
+    {
+      "title": "Pastors Appreciation",
+      "startDate": "2026-10-31",
+      "endDate": null,
+      "category": "appreciation",
+      "description": "Pastors Appreciation.",
+      "location": null
+    },
+    {
+      "title": "Mission's Month",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-30",
+      "category": "missions",
+      "description": "Mission's Month.",
+      "location": "All Local Churches"
+    },
+    {
+      "title": "General Council Meeting",
+      "startDate": "2026-11-05",
+      "endDate": null,
+      "category": "conference",
+      "description": "General Council Meeting.",
+      "location": null
+    },
+    {
       "title": "Annual Thanksgiving",
       "startDate": "2026-12-13",
       "endDate": null,
