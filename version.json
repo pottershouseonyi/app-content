@@ -13,7 +13,7 @@
     },
     "events": {
       "url": "https://raw.githubusercontent.com/pottershouseonyi/app-content/main/events.json",
-      "version": 1
+      "version": 2
     },
     "theme": {
       "url": "https://raw.githubusercontent.com/pottershouseonyi/app-content/main/theme.json",
